@@ -1,0 +1,3 @@
+variable "fake" {
+  default = "fake"
+}
